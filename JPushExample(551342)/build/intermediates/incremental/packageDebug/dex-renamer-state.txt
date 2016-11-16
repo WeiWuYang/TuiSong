@@ -1,0 +1,7 @@
+#Tue Nov 15 10:04:57 CST 2016
+base.0=D\:\\workspce\\Tuisong\\JPushExample(551342)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b4f45f6b2b2000e1cb42aa844947c6c44d90a41c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\workspce\\Tuisong\\JPushExample(551342)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b54b2fa045340a6d8467cd9a96a4c829384aea19\\classes.dex
+base.1=D\:\\workspce\\Tuisong\\JPushExample(551342)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b54b2fa045340a6d8467cd9a96a4c829384aea19
+file.0=D\:\\workspce\\Tuisong\\JPushExample(551342)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b4f45f6b2b2000e1cb42aa844947c6c44d90a41c\\classes.dex
